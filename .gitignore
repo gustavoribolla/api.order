@@ -1,0 +1,29 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IDEs (ex: VSCode, IntelliJ, Eclipse)
+.idea/
+*.iml
+.vscode/
+*.class
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+*.local
+
+# Windows
+*.exe
+*.dll
+*.bat
+
+# macOS/Linux
+*.out
+*.swp
